@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Chgi7VgGlXrNZmI6zjUnNKpBaWoQMwRiw/RRQVeRMAU08663Iy3GKEY88Ui8APf3Ph91B65GPb7fVjSRAzeeSg==",
+  "success": true,
+  "projectFilePath": "/Users/antonkupalov/RiderProjects/ConsoleApp9/ConsoleApp9/ConsoleApp9.csproj",
+  "expectedPackageFiles": [
+    "/Users/antonkupalov/.nuget/packages/csfml/2.5.0/csfml.2.5.0.nupkg.sha512",
+    "/Users/antonkupalov/.nuget/packages/sfml.audio/2.5.0/sfml.audio.2.5.0.nupkg.sha512",
+    "/Users/antonkupalov/.nuget/packages/sfml.graphics/2.5.0/sfml.graphics.2.5.0.nupkg.sha512",
+    "/Users/antonkupalov/.nuget/packages/sfml.net/2.5.0/sfml.net.2.5.0.nupkg.sha512",
+    "/Users/antonkupalov/.nuget/packages/sfml.system/2.5.0/sfml.system.2.5.0.nupkg.sha512",
+    "/Users/antonkupalov/.nuget/packages/sfml.window/2.5.0/sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
